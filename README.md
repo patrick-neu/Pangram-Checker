@@ -10,4 +10,4 @@ If the sentence is not a pangram, the program will output the missing letters.
 
 ## Screenshot
 
-![Pangram Checker Screenshot](Screenshot.png)
+![Pangram Checker Screenshot](screenshot.png)
